@@ -1,0 +1,19 @@
+{
+  "description": "∆RY∆N-TECH — A Powerful WhatsApp Bot built with Node.js.",
+  "repository": "https://github.com/aryankingkilalu/ARYAN-MD",
+  "logo": "https://files.catbox.moe/j35jos.jpg",
+  "keywords": ["whatsapp", "bot", "baileys", "node"],
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your WhatsApp session ID. Get one from the session site.",
+      "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
