@@ -22,4 +22,4 @@ EXPOSE 3000
 ENV NODE_ENV production
 
 # Run command
-CMD ["npm", "run", "index"]
+CMD ["npm", "run", "start"]
