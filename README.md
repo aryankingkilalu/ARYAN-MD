@@ -13,6 +13,8 @@
 <a href="https://github.com/aryankingkilalu"><img title="Author" src="https://img.shields.io/badge/%E2%88%86RY%E2%88%86N--TECH-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
+---
+
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
@@ -27,7 +29,7 @@
     <strong>2.SESSION PAIR</strong>
     <br>
     <a href="" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
     </a>
 </p>
 
