@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-    <strong>2.SESSION PAIR</strong>
+    <strong>2.SESSION PAIR 1</strong>
     <br>
     <a href="https://usifutepaircodezangu-16c805e80d49.herokuapp.com/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
@@ -37,7 +37,7 @@
 
 
 <p align="center">
-    <strong>2.SESSION PAIR</strong>
+    <strong>2.SESSION PAIR 2</strong>
     <br>
     <a href="https://usifutepaircodezangu-16c805e80d49.herokuapp.com/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
