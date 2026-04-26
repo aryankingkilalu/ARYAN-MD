@@ -4,7 +4,7 @@
 <p align="center">
   <p align="center">
    <a href="https://github.com/aryankingkilalu/ARYAN-MD">
-    <img alt="∆RY∆N-TECH docs" height="350" src="https://files.catbox.moe/j35jos.jpg">
+    <img alt="∆RY∆N-TECH docs" height="350" src="https://i.ibb.co/4ZFjR38z/e4c19974e76f.jpg">
    </a>
     
 </a>
