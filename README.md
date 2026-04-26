@@ -37,6 +37,16 @@
 
 
 <p align="center">
+    <strong>2.SESSION PAIR</strong>
+    <br>
+    <a href="https://usifutepaircodezangu-16c805e80d49.herokuapp.com/" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
+    </a>
+</p>
+
+---
+
+<p align="center">
     <strong>3.HEROKU DEPLOYMENT</strong>
     <br>
     <a href="https://heroku.com/deploy?template=https://github.com/aryankingkilalu/ARYAN-MD" target="_blank">
