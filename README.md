@@ -37,6 +37,10 @@
 <img src="https://img.shields.io/badge/🖥️_DEPLOY_VPS-000?style=for-the-badge&color=green">
 </a>
 
+<a href="https://heroku.com/deploy?template=https://github.com/aryantech961-create/ARYAN-TECH255">
+<img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-000?style=for-the-badge&color=purple">
+</a>
+
 </div>
 
 ---
@@ -61,10 +65,6 @@
 <img src="https://img.shields.io/badge/💀_PAIR_ULTRA-000?style=for-the-badge&color=red">
 </a>
 
-<a href="https://heroku.com/deploy?template=https://github.com/aryankingkilalu/ARYAN-MD">
-<img src="https://img.shields.io/badge/🚀_DEPLOY_NOW-000?style=for-the-badge&color=purple">
-</a>
-
 </div>
 
 ---
@@ -80,6 +80,16 @@
 <img src="https://img.shields.io/badge/SYSTEM-KATABAMPU-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/ACCESS-PRIVATE-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/LEVEL-ULTRA-black?style=for-the-badge">
+
+</div>
+
+---
+
+## 📌 Bot Preview
+
+<div align="center">
+
+<img src="https://h.uguu.se/hFyKrTba.jpg" width="360"/>
 
 </div>
 
