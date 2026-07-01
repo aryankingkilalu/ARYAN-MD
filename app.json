@@ -1,32 +1,28 @@
 {
-  "name": "ARYAN-MD",
-  "description": "∆RY∆N-TECH — A Powerful WhatsApp Bot built with Node.js.",
-  "repository": "https://github.com/aryankingkilalu/ARYAN-MD",
-  "logo": "https://files.catbox.moe/j35jos.jpg",
-  "keywords": ["whatsapp", "bot", "baileys", "node"],
-  "stack": "container",
-  "env": {
-    "SESSION_ID": {
-      "description": "Your WhatsApp session ID. Aryan-X:~<base64>",
-      "required": true
-    }
-  },
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "basic"
-    }
-  },
+  "name": "Aryan-X",
+  "description": "Aryan-X, your friendly assistant!",
+  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "keywords": [],
+  "repository": "https://github.com/,,/**",
+  "stack": "heroku-24",
   "addons": [
-    { "plan": "heroku-postgresql" }
+    {
+      "plan": "heroku-postgresql"
+    }
   ],
   "scripts": {
     "start": "node index.js"
   },
+  "env": {
+    "SESSION_ID": {
+      "description": "Must begin with 'Aryan-X:~'.",
+      "value": "",
+      "required": false
+    }
+  },
   "buildpacks": [
-    { "url": "heroku/nodejs" },
-    { "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git" },
-    { "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
-    { "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" }
+    {
+      "url": "heroku/nodejs"
+    }
   ]
 }
