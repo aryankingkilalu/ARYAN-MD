@@ -1,28 +1,31 @@
 {
-  "name": "Aryan-X",
-  "description": "Aryan-X, your friendly assistant!",
-  "logo": "https://i.ibb.co//Xploader4.jpg",
-  "keywords": [],
-  "repository": "https://github.com/,,/**",
-  "stack": "heroku-24",
-  "addons": [
+  "name": "JuneX Ultra",
+  "description": "JuneX Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
+  "repository": "https://github.com/Vinpink2/June-Ultra",
+  "logo": "",
+  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "june-ultra"],
+  "stack": "heroku-26",
+  "buildpacks": [
     {
-      "plan": "heroku-postgresql"
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
   ],
-  "scripts": {
-    "start": "node index.js"
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'Aryan-X:~'.",
-      "value": "",
-      "required": false
+      "description": "June X Ultra session string. Accepted formats: JUNE-MD:~, Ultra-X:~, June-Ultra:~",
+      "required": false,
+      "value": ""
     }
   },
-  "buildpacks": [
+  "addons": [
     {
-      "url": "heroku/nodejs"
+      "plan": "heroku-postgresql"
     }
   ]
 }
