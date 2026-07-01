@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/RENDER-00ffff?style=flat&logo=render&logoColor=white">
 </a>
 
-<a href="https://heroku.com/deploy?template=https://github.com/aryantech961-create/ARYAN-TECH255">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/ARYAN-MD">
 <img src="https://img.shields.io/badge/HEROKU-purple?style=flat&logo=heroku&logoColor=white">
 </a>
 
