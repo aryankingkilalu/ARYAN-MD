@@ -16,7 +16,7 @@
 ## 📌 Bot Preview
 
 <div align="center">
-<img src="https://h.uguu.se/hFyKrTba.jpg" width="300"/>
+<img src="https://i.ibb.co/4gFQ0QqH/7ee64932943a.jpg" width="300"/>
 </div>
 
 ---
