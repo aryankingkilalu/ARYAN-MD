@@ -1,9 +1,9 @@
 {
-  "name": "JuneX Ultra",
-  "description": "JuneX Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
+  "name": "Aryan-X Ultra",
+  "description": "Aryan-X Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
   "repository": "https://github.com/Vinpink2/June-Ultra",
   "logo": "",
-  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "june-ultra"],
+  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "aryan-x"],
   "stack": "heroku-26",
   "buildpacks": [
     {
@@ -18,7 +18,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "June X Ultra session string. Accepted formats: JUNE-MD:~, Ultra-X:~, June-Ultra:~",
+      "description": "Aryan-X Ultra session string. Accepted formats: ARYAN-X:~, Aryan-X:~, Aryan-Ultra:~",
       "required": false,
       "value": ""
     }
